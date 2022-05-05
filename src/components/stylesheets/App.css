@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.link-tag {
+  text-decoration: none;
+}
+/* media queries */
+.right-sidebar {
+  padding: 0;
+  background-color: #dad3cb;
+}
+.left-sidebar {
+  background-color: green;
+}
+
